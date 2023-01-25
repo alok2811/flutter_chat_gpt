@@ -2,7 +2,7 @@
 A sample Flutter app that demonstrates the use of OpenAI's GPT-3 API to generate text.
 
 ## Demo
-<img src = "screenshot.png", width="250">
+<img src = "screenshot.png" width="250">
 
 ### :star: Star me on GitHub — it helps!
 
