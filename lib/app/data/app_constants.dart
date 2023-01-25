@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 class AppConstants{
 
-  static String apiKey = "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";
+  /// To get Api Key, go to https://beta.openai.com/account/api-keys
+
+  static String apiKey = "Your API Key";
 
 }
